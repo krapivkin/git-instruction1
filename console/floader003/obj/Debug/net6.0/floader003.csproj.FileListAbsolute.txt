@@ -1,0 +1,15 @@
+C:\project\C#\console\floader003\bin\Debug\net6.0\floader003.exe
+C:\project\C#\console\floader003\bin\Debug\net6.0\floader003.deps.json
+C:\project\C#\console\floader003\bin\Debug\net6.0\floader003.runtimeconfig.json
+C:\project\C#\console\floader003\bin\Debug\net6.0\floader003.dll
+C:\project\C#\console\floader003\bin\Debug\net6.0\floader003.pdb
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.csproj.AssemblyReference.cache
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.AssemblyInfoInputs.cache
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.AssemblyInfo.cs
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.csproj.CoreCompileInputs.cache
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.dll
+C:\project\C#\console\floader003\obj\Debug\net6.0\refint\floader003.dll
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.pdb
+C:\project\C#\console\floader003\obj\Debug\net6.0\floader003.genruntimeconfig.cache
+C:\project\C#\console\floader003\obj\Debug\net6.0\ref\floader003.dll
